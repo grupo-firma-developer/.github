@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://wallpaperaccess.com/full/4391685.jpg" height="100%"/>
+  <img src="https://wallpaperaccess.com/full/26439429.webp" height="100%"/>
 </p>
 <hr>
 <h1 align="center">Welcome to GrupoFirma devs organization </h1>
